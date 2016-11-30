@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: jna-platform-4.1.0.jar jetty-server-9.3.6.v20151106.jar je
+ tty-io-9.3.6.v20151106.jar websocket-server-9.3.6.v20151106.jar jetty
+ -http-9.3.6.v20151106.jar javax.servlet-api-3.1.0.jar slf4j-api-1.7.1
+ 3.jar jna-4.1.0.jar vlcj-3.10.1.jar websocket-servlet-9.3.6.v20151106
+ .jar jetty-webapp-9.3.6.v20151106.jar jetty-servlet-9.3.6.v20151106.j
+ ar webcam-capture-0.3.12-20160507.091613-2.jar slf4j-nop-1.7.5.jar ja
+ cob.jar jetty-security-9.3.6.v20151106.jar websocket-common-9.3.6.v20
+ 151106.jar websocket-client-9.3.6.v20151106.jar spark-core-2.5.jar je
+ tty-xml-9.3.6.v20151106.jar jetty-util-9.3.6.v20151106.jar websocket-
+ api-9.3.6.v20151106.jar xuggle-xuggler-5.4.jar
+Main-Class: Main
+

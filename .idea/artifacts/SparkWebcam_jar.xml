@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SparkWebcam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkWebcam_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SparkWebcam.jar">
+        <element id="module-output" name="SparkWebcam" />
+      </element>
+      <element id="library" level="project" name="Maven: net.java.dev.jna:jna-platform:4.1.0" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-server:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.13" />
+      <element id="library" level="project" name="Maven: net.java.dev.jna:jna:4.1.0" />
+      <element id="library" level="project" name="Maven: uk.co.caprica:vlcj:3.10.1" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-servlet:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-webapp:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-servlet:9.3.6.v20151106" />
+      <element id="library" level="project" name="webcam-capture-0.3.12-20160507.091613-2" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-nop:1.7.5" />
+      <element id="library" level="project" name="jacob" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-security:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-common:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-client:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: com.sparkjava:spark-core:2.5" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-xml:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:9.3.6.v20151106" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.3.6.v20151106" />
+      <element id="library" level="project" name="xuggle-xuggler-5.4" />
+    </root>
+  </artifact>
+</component>
